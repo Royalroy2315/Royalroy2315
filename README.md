@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajay Chavan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://github.com/Royalroy2315/Royalroy2315/blob/main/iron%20man.gif"  width="500px" align="right" alt="">
+<img src="https://github.com/Royalroy2315/Royalroy2315/blob/main/anime.gif"  width="500px" align="right" alt="">
 
 - 💬 Ask me about **CORE JAVA, MYSQL, HTML, PYTHON**
 
