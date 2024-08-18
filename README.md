@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajay Chavan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://images.app.goo.gl/nwzqRxUFNJw2m5sdA"  width="450px" align="right" alt="">
 
 - 💬 Ask me about **CORE JAVA, MYSQL, HTML, PYTHON**
 
